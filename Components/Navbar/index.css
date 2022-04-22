@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+.top {
+  padding: 10px;
+  background-color: aliceblue;
+}
+.nav {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
