@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+}
+.top {
+  display: flex;
+  padding: 20px;
+}
+.select {
+  display: flex;
+  width: 40px;
+  margin: 20px;
+}
+label {
+  margin-right: 8px;
+}
+.section {
+  display: flex;
+  padding: 10px;
+}
+.parts {
+  flex: 0.25;
+  border-right: 1px solid rgb(113, 110, 110);
+  padding: 5px;
+}
+select {
+  border: none;
+}
+button {
+  width: 80px;
+  margin-top: 10px;
+  padding: 3px;
+  background-color: antiquewhite;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
